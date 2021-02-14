@@ -1,0 +1,2 @@
+disini kodingan machine learning aslinya beserta yang dibutuhin.
+formatnya jupyter notebook untuk file kodingan machine learningnya 
