@@ -20,7 +20,7 @@ handler = WebhookHandler('0749389a230f79e07064b3e50fe76cb3')
 
 @app.route("/")
 def index():
-    return "Jalan kok"
+    return "harusnya jalan, OK"
 
 @app.route("/callback", methods=['POST'])
 def callback():
